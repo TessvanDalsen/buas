@@ -10,21 +10,24 @@ body {
 	color: #000000;
 	background-color: #f8f8fc;
 }
-
+.custom-heading {
+    font-family: 'Arial', sans-serif; /* Change the font */
+    color: #0c9bad; /* Change the color */
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .language-level .language-progress {
 	background-color: #ee2e2e !important;
 }
 	
 .language-level {
-		background-color: rgb(228, 255, 236);
+		background-color: rgb(242, 224, 69);
 }
 	
 .language-level {
 		border: #2525c2;
 }
 .resume-header {
-    background-color: #14663cc5;
+    background-color: #589d79c5;
 }
 
 .resume-main {
@@ -59,3 +62,4 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
