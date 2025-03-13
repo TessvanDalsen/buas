@@ -11,8 +11,8 @@ body {
 	background-color: #f8f8fc;
 }
 .custom-heading {
-    font-family: 'Arial', sans-serif; /* Change the font */
-    color: #0c9bad; /* Change the color */
+    font-family: 'sans-serif'; /* Change the font */
+    color: #ffffff; /* Change the color */
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .language-level .language-progress {
