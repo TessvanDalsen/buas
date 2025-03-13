@@ -8,7 +8,7 @@
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #000000;
-	background-color: #f8f8fc;
+	background-color: #e0ffed;
 }
 .custom-heading {
     font-family: 'sans-serif'; /* Change the font */
@@ -24,7 +24,7 @@ body {
 }
 	
 .language-level {
-		border: #2525c2;
+		border: #000000;
 }
 .resume-header {
     background-color: #589d79c5;
@@ -35,7 +35,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #baf1d4;
+	background-color: #bef7d2;
 }
 
 /* Styles for lists in the document */
