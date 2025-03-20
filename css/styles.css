@@ -16,15 +16,15 @@ body {
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .language-level .language-progress {
-	background-color: #ee2e2e !important;
+	background-color: #f98282 !important;
 }
 	
 .language-level {
-		background-color: rgb(255, 223, 94);
+		background-color: #f2db80;
 }
 	
 .language-level {
-		border: #b42e2e !important;
+		border: 2px solid #000000 !important;
 }
 .resume-header {
     background-color: #2c533fc5;
